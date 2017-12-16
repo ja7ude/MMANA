@@ -19,11 +19,6 @@ http://www.embarcadero.com/jp/products/cbuilder
 
 C++ Builder XE4には数種類のバージョンがありますが、一番安い　C++ Builder XE4 Starter ESDでビルドできます。また、期間限定の無料体験版もあるようですので、とりあえずそれを使って試す手もあるかと思われます。
 
-不具合のレポート、コメント等がございましたなら、MMHAMSOFT　YAHOO GROUP
-http://groups.yahoo.co.jp/group/mmhamsoft/
-をお使いください。【追記】2014年5月にYahooグループのサービスが終了しましたので、こちらをお使いください。
-https://groups.google.com/forum/?hl=ja#!forum/mmhamsoft-japan
-
 73
 JA7UDE
 大庭
